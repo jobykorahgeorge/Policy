@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #333;
+        }
+        h1 {
+            color: #222;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> [Add Date]</p>
+
+    <h2>1. Overview</h2>
+    <p>
+        This application is designed to securely store and manage your data 
+        <strong>locally on your device</strong>. We do not collect, store, transmit, or share any personal data to external servers or third parties.
+    </p>
+
+    <h2>2. Data We Collect</h2>
+    <p>
+        We do <strong>not</strong> collect any personal information.  
+        All data you enter—such as expenses, income, investments, notes, or passwords—remains fully stored on your device.
+        We have no access to this data.
+    </p>
+
+    <h2>3. Local Data Storage & Security</h2>
+    <p>
+        Your data is stored solely within the app's private storage area on your device.  
+        It is not uploaded, synced, shared, or transmitted over the internet.  
+        You may delete all your data at any time by uninstalling the app or using in-app clearing options (if available).
+    </p>
+
+    <h2>4. Data Sharing</h2>
+    <p>
+        We do <strong>not</strong> share your data with anyone, including:
+    </p>
+    <ul>
+        <li>Advertisers</li>
+        <li>Third-party companies or services</li>
+        <li>Analytics or tracking systems</li>
+        <li>External servers or cloud platforms</li>
+    </ul>
+    <p>
+        Since your data never leaves your device, sharing is not technically possible.
+    </p>
+
+    <h2>5. Permissions Used</h2>
+    <p>
+        The app may request certain device permissions solely for its functionality.  
+        Examples include:
+    </p>
+    <ul>
+        <li><strong>Storage</strong> – to store your data locally.</li>
+        <li><strong>Biometric / Fingerprint</strong> – if you enable the in-app vault lock or secure access.</li>
+    </ul>
+    <p>We do not use these permissions to collect any information.</p>
+
+    <h2>6. Children’s Privacy</h2>
+    <p>
+        We do not knowingly collect or store data from children.  
+        The app does not connect to any server or process online interactions.
+    </p>
+
+    <h2>7. Changes to This Policy</h2>
+    <p>
+        If we introduce online or cloud features in the future, this privacy policy will be updated accordingly.
+    </p>
+
+    <h2>8. Contact Us</h2>
+    <p>
+        If you have any questions or concerns, feel free to contact us at:<br>
+        <strong>[Your Email Address]</strong>
+    </p>
+
+</body>
+</html>
